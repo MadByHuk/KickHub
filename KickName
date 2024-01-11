@@ -1,0 +1,5 @@
+local Players = game:GetService("Players")
+local player = Players.LocalPlayer
+if player then
+    player:Kick("Voce Foi Trollado(a) Por mim Hahahahha")
+end
